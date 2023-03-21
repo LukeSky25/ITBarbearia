@@ -1,0 +1,24 @@
+body{
+    background: rgb(48,4,255);
+    background: linear-gradient(90deg, rgba(48,4,255,0.908000700280112) 0%, rgba(7,0,42,1) 0%, rgba(0,168,255,1) 72%, rgba(9,9,121,1) 100%);
+    font-size: 19px;
+    color: #FFFFFF;
+    }
+ h1{
+        color: #FFFFFF!important;
+   }
+p{
+    text-align: center;
+ }
+a{
+    color:#e94444; 
+      }
+
+em strong{
+    color: #e94444;
+         }
+strong{
+    font: size 21px; 
+      }
+
+
